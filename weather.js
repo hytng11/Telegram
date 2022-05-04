@@ -1,4 +1,3 @@
-//Min_kr_bot
 //npm install telebot
 
 const TeleBot = require('telebot');
